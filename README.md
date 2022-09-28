@@ -1,5 +1,5 @@
 # HappyHouse_03
-관통 프로젝트 HappyHouse 3 ( Back-End 연동 )
+관통 프로젝트 HappyHouse 3 ( Back-End 연동 ) <br>
 Team : 김준호, 민동주, 박신희
 
 ## 개요 
